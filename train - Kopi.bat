@@ -1,0 +1,2 @@
+mlagents-learn config/DumFugl.yaml --time-scale=10 --run-id=continued_traning --env=Build\Bootleg-Flappy-Bird --num-envs=20 --no-graphics --initialize-from=results\children\DumFugl\DumFugl-70151.onnx
+```

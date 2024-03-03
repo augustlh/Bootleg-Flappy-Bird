@@ -1,0 +1,1 @@
+mlagents-learn config/DumFugl.yaml --force --time-scale=10 --run-id=Batman --env=Build\Bootleg-Flappy-Bird --num-envs=20 --no-graphics

@@ -1,0 +1,29 @@
+{
+    "DumFugl": {
+        "checkpoints": [
+            {
+                "steps": 22142,
+                "file_path": "results\\L\\DumFugl\\DumFugl-22142.onnx",
+                "reward": null,
+                "creation_time": 1709292763.483252,
+                "auxillary_file_paths": [
+                    "results\\L\\DumFugl\\DumFugl-22142.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 22142,
+            "file_path": "results\\L\\DumFugl.onnx",
+            "reward": null,
+            "creation_time": 1709292763.483252,
+            "auxillary_file_paths": [
+                "results\\L\\DumFugl\\DumFugl-22142.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.1+cpu"
+    }
+}
